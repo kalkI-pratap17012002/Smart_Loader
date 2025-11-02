@@ -44,7 +44,7 @@
 
 ## GitHub Repository
 
-**Repository URL**: [https://github.com/username/repository-name]
+**Repository URL**: [https://github.com/kalkI-pratap17012002/Assignment_4-Smart_Loader.git]
 
 **Repository Status**: PRIVATE
 
